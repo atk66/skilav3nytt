@@ -2,8 +2,8 @@
     width: 640px;
     margin: auto;
     margin-top: 150px;
-    background: white;
-    color: #262626;
+    background: rgb(0, 0, 0);
+    color: #f1eaea;
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -13,7 +13,7 @@
 .container hr{
     height: 2px;
     border: none;
-    background: #707070;
+    background: #a507ee;
 }
 .container h2{
     font-size: 27px;
@@ -24,7 +24,7 @@
     align-items: center;
     height: 70px;
     padding-left: 15px;
-    border: 1px solid #686868;
+    border: 1px solid #1577f8;
     border-radius: 8px;
     margin-bottom: 20px;
     font-size: 20px;
@@ -34,7 +34,7 @@
     margin: auto;
     width: 250px;
     height: 65px;
-    background: rgb(176, 93, 209);
+    background: rgb(146, 2, 202);
     color: azure;
     font-size: 25px;
     font-weight: 500;
@@ -46,10 +46,10 @@
     font-size: 18px;
 }
 .container .correct{
-    background: rgb(197, 231, 196);
-    border-color: aquamarine;
+    background: rgb(6, 134, 1);
+    border-color: rgb(4, 248, 167);
 }
 .container .wrong{
-    background: rgb(247, 196, 177);
+    background: rgb(219, 18, 18);
     border-color: rgb(255, 142, 127);
 }
