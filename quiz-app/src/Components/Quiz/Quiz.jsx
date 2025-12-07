@@ -6,7 +6,7 @@ const Quiz = () => {
     <div className='container'>
         <h1>Quiz App</h1>
         <hr />
-        <h2>Spurning</h2>
+        <h2>1. Spurning</h2>
         <ul>
             <li>svar</li>
             <li>svar</li>
