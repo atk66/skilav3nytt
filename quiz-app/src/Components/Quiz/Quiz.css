@@ -45,3 +45,11 @@
     margin: auto;
     font-size: 18px;
 }
+.container .correct{
+    background: rgb(197, 231, 196);
+    border-color: aquamarine;
+}
+.container .wrong{
+    background: rgb(247, 196, 177);
+    border-color: rgb(255, 142, 127);
+}

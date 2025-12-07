@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "Hver var fyrsta smáskífan af plötunni Blackout eftir Britney Spears ?",
+      option1: "Radar",
+      option2: "Break the Ice",
+      option3: "Gimme More",
+      option4: "Piece of Me",
+      ans: 3,
+    },
+    {
+      question: "Hversu margar plötur hefur Madonna gefið út ?",
+      option1: "20",
+      option2: "14",
+      option3: "11",
+      option4: "16",
+      ans: 2,
+    },
+    {
+      question: "Hvaða lag eftir The Weeknd er með flestu streymin á Spotify?",
+      option1: "Blinding Lights",
+      option2: "Save Your Tears",
+      option3: "Can't Feel My Face",
+      option4: "Starboy",
+      ans: 1,
+    },
+    {
+      question: "Hvaða ár gaf Mariah Carey út lagið All I Want For Christmas Is You ?",
+      option1: "1994",
+      option2: "1993",
+      option3: "1992",
+      option4: "1995",
+      ans: 1,
+    },
+    {
+      question: "Hverjir sungu lagið Moves Like Jagger ?",
+      option1: "Mick Jagger og Tina Turner",
+      option2: "Justin Bieber og Ariana Grande",
+      option3: "Enrique Iglesias og Jennifer Lopez",
+      option4: "Maroon 5 og Christina Aguilera",
+      ans: 4,
+    },
+  ];
